@@ -9,4 +9,4 @@
 # 5. Allow users to save any custom EDA steps for future use on another dataset.
 # 6. Allow users to download the code if possible.
 # 7. Allow users to graphical interface for execution progress.
-# 8. Maintain Dashboard based on user EDA activities.
+# 8. Maintain Dashboard based on user EDA activities
